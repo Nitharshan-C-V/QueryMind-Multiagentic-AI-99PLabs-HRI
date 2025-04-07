@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+langchain
+langgraph==0.2.74
+langchain-core
+langchain-groq
+langchain-experimental
+reportlab
+Pillow
+scikit-learn
+tabulate
+kaleido
